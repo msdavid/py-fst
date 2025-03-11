@@ -1,13 +1,13 @@
-# py-fst
+# py-r-fst
 
 Python wrapper for the R [fst](https://www.fstpackage.org/) package. The fst package provides a fast, easy and flexible way to serialize data frames.
 
 
 ## Installation
 
-From PyPI (once published):
+From PyPI:
 ```bash
-pip install py-fst
+pip install py-r-fst
 ```
 
 From GitHub:
@@ -18,10 +18,10 @@ pip install git+https://github.com/msdavid/py-fst.git
 From a local directory:
 ```bash
 # Standard installation
-pip install /path/to/py-fst
+pip install /path/to/py-r-fst
 
 # Development mode (changes to code reflect immediately without reinstalling)
-pip install -e /path/to/py-fst
+pip install -e /path/to/py-r-fst
 ```
 
 ### Requirements
