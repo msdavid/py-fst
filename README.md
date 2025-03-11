@@ -9,6 +9,11 @@ From PyPI (once published):
 pip install py-fst
 ```
 
+From GitHub:
+```bash
+pip install git+https://github.com/msdavid/py-fst.git
+```
+
 From a local directory:
 ```bash
 # Standard installation

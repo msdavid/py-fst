@@ -2,8 +2,8 @@
 
 ## Project Information
 - License: Apache 2.0
-- Author: transparentlyadmin (mauro@sauco.net)
-- GitHub: https://github.com/transparentlyadmin/py-fst
+- Author: msdavid (mauro@sauco.net)
+- GitHub: https://github.com/msdavid/py-fst
 
 ## Build and Test Commands
 - Install for development: `pip install -e .`
