@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-from py_fst import read_fst, write_fst
+from pyfst import read_fst, write_fst
 
 # Create a sample DataFrame
 df = pd.DataFrame({

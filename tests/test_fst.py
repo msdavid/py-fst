@@ -2,7 +2,7 @@ import os
 import tempfile
 import pandas as pd
 import unittest
-from py_fst import read_fst, write_fst
+from pyfst import read_fst, write_fst
 
 class TestFST(unittest.TestCase):
     def setUp(self):

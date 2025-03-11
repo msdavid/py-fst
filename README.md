@@ -2,6 +2,7 @@
 
 Python wrapper for the R [fst](https://www.fstpackage.org/) package. The fst package provides a fast, easy and flexible way to serialize data frames.
 
+
 ## Installation
 
 From PyPI (once published):
@@ -40,7 +41,7 @@ install.packages("fst")
 
 ```python
 import pandas as pd
-from py_fst import read_fst, write_fst
+from pyfst import read_fst, write_fst
 
 # Create a sample DataFrame
 df = pd.DataFrame({
@@ -94,4 +95,4 @@ Write a pandas DataFrame to a fst file.
 
 ## License
 
-Apache
+Apache 2.0

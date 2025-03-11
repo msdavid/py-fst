@@ -4,6 +4,8 @@ setup(
     name="py-fst",
     version="0.1.0",
     packages=find_packages(),
+    package_data={"": ["*.py"]},
+    py_modules=["pyfst"],
     install_requires=[
         "pandas>=1.0.0",
         "rpy2>=3.4.0",
