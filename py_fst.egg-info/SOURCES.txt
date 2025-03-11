@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+py_fst/__init__.py
+py_fst/fst.py
+py_fst.egg-info/PKG-INFO
+py_fst.egg-info/SOURCES.txt
+py_fst.egg-info/dependency_links.txt
+py_fst.egg-info/requires.txt
+py_fst.egg-info/top_level.txt
+tests/test_fst.py
