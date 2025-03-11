@@ -23,5 +23,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/msdavid/py-fst"
-"Bug Tracker" = "https://github.com/msdavid/py-fst/issues"
+"Homepage" = "https://github.com/msdavid/py-r-fst"
+"Bug Tracker" = "https://github.com/msdavid/py-r-fst/issues"

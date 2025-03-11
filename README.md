@@ -12,7 +12,7 @@ pip install py-r-fst
 
 From GitHub:
 ```bash
-pip install git+https://github.com/msdavid/py-fst.git
+pip install git+https://github.com/msdavid/py-r-fst.git
 ```
 
 From a local directory:
